@@ -1,6 +1,7 @@
-# FlaskApp
+# MyFirstFlaskApp
 
 Simple application with authentication and CRUD functionality using the Python Flask micro-framework
+Created by following a tutorial
 
 ## Installation
 
